@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Live Demo
-**[View Live Demo →]((https://69c4cad5e951a4e30393386a--gilded-douhua-2a40b6.netlify.app/))**
+**[View Live Demo →]([https://69c4cad5e951a4e30393386a--gilded-douhua-2a40b6.netlify.app/])**
 
 ---
 
