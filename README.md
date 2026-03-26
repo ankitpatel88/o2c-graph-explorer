@@ -6,13 +6,7 @@
 ---
 
 ## 🔗 Live Demo
-**[View Live Demo →](YOUR_DEMO_LINK_HERE)**
-
----
-
-## 📸 Screenshots
-
-> Graph Explorer · Analytics Dashboard · Flow Analysis · AI Chat Interface
+**[View Live Demo →]((https://69c4cad5e951a4e30393386a--gilded-douhua-2a40b6.netlify.app/))**
 
 ---
 
@@ -301,12 +295,12 @@ The application works without an API key for all pre-built query patterns (top p
 
 ```
 o2c-graph-explorer/
-├── o2c_explorer_v2.html     # Complete application (self-contained)
-├── README.md                # This file
-├── data/
-│   └── sap-o2c-dataset.zip  # Original dataset (19 entity folders, JSONL format)
-└── build/
-    └── build_app.py         # Python script used to embed data into HTML
+├── /src
+│   └── index.html          ← your o2c_explorer_v2.html renamed
+├── /sessions
+│   └── claude_session.md   ← this conversation copied as markdown
+├── README.md               ← the one we already made
+└── setup.md                ← instructions to run the project
 ```
 
 ---
